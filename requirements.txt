@@ -1,0 +1,2 @@
+colorama>=0.4.4
+questionary>=1.10.0
